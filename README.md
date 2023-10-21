@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">Junior Java Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blazevicz" alt="blazevicz" /></a> </p>
-
 - 🔭 I’m currently working on [TrainDriverHelper](https://github.com/blazevicz/RailProject)
 
 - 🌱 I’m currently learning **Spring**
